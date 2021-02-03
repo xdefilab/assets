@@ -1,0 +1,173 @@
+{
+    "name": "Trust Wallet: Ethereum",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2021-02-01T15:48:42.549Z",
+    "tokens": [
+        {
+            "chainId": 42,
+            "asset": "c60_t0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+            "type": "ERC20",
+            "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png",
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+            "type": "ERC20",
+            "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xb7a4F3E9097C08dA09517b5aB877F7a917224ede/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0xd3A691C852CDB01E281545A27064741F0B7f6825",
+            "type": "ERC20",
+            "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xd3A691C852CDB01E281545A27064741F0B7f6825/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
+            "type": "ERC20",
+            "address": "0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0xDE99C79533EEB1897d1d12dF3E5437D498ba82a6",
+            "type": "ERC20",
+            "address": "0xDE99C79533EEB1897d1d12dF3E5437D498ba82a6",
+            "name": "Dai Stablecoin",
+            "symbol": "XDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xDE99C79533EEB1897d1d12dF3E5437D498ba82a6/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x685429b3Ce31ADa3fa1991515955Da23A27Ed184",
+            "type": "ERC20",
+            "address": "0x685429b3Ce31ADa3fa1991515955Da23A27Ed184",
+            "name": "Basic Attention Token",
+            "symbol": "XBAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x685429b3Ce31ADa3fa1991515955Da23A27Ed184/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x8fe80F7CA77dAA68b059f8B3e29e1c5d962f01E7",
+            "type": "ERC20",
+            "address": "0x8fe80F7CA77dAA68b059f8B3e29e1c5d962f01E7",
+            "name": "Uniswap",
+            "symbol": "XUNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x8fe80F7CA77dAA68b059f8B3e29e1c5d962f01E7/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x993E60Ed0061637b9C2065D0e37444112429c4aA",
+            "type": "ERC20",
+            "address": "0x993E60Ed0061637b9C2065D0e37444112429c4aA",
+            "name": "Tether USD",
+            "symbol": "XUSDT1",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x993E60Ed0061637b9C2065D0e37444112429c4aA/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0xf2E44dE68Ab3756EADBB1430afF626aD64600b8f",
+            "type": "ERC20",
+            "address": "0xf2E44dE68Ab3756EADBB1430afF626aD64600b8f",
+            "name": "Tether USD",
+            "symbol": "XUSDT2",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xf2E44dE68Ab3756EADBB1430afF626aD64600b8f/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x42197a5564c6C9bbF6205Eaf429a20dDe00Fd22f",
+            "type": "ERC20",
+            "address": "0x42197a5564c6C9bbF6205Eaf429a20dDe00Fd22f",
+            "name": "Compound",
+            "symbol": "XCOMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x42197a5564c6C9bbF6205Eaf429a20dDe00Fd22f/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0xb81b21aAAf7aeDF5501BA47e7Fc57cecbdC268C6",
+            "type": "ERC20",
+            "address": "0xb81b21aAAf7aeDF5501BA47e7Fc57cecbdC268C6",
+            "name": "XMING Token",
+            "symbol": "XMING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xb81b21aAAf7aeDF5501BA47e7Fc57cecbdC268C6/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x849070e3485E8D98afe9270002F304892F991b46",
+            "type": "ERC20",
+            "address": "0x849070e3485E8D98afe9270002F304892F991b46",
+            "name": "XHALF",
+            "symbol": "XHALF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x849070e3485E8D98afe9270002F304892F991b46/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158",
+            "type": "ERC20",
+            "address": "0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158",
+            "name": "XDEX",
+            "symbol": "XDEX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0x105550516486DB9ac99DBDAd7E24F39a9629067B",
+            "type": "ERC20",
+            "address": "0x105550516486DB9ac99DBDAd7E24F39a9629067B",
+            "name": "XDEX1",
+            "symbol": "XDEX1",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x105550516486DB9ac99DBDAd7E24F39a9629067B/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0x2EbE0F9eF3A77267Ed52AB993F4A3A31bb3F935C",
+            "type": "ERC20",
+            "address": "0x2EbE0F9eF3A77267Ed52AB993F4A3A31bb3F935C",
+            "name": "XDEX2",
+            "symbol": "XDEX2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x2EbE0F9eF3A77267Ed52AB993F4A3A31bb3F935C/logo.png",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 8,
+        "minor": 0,
+        "patch": 0
+    }
+}

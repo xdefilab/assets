@@ -1,0 +1,11 @@
+{
+    "name": "Uniswap",
+    "website": "https://uniswap.org",
+    "short_description": "UNI is the Uniswap protocol token. Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.",
+    "explorer": "https://kovan.etherscan.io/token/0x8fe80F7CA77dAA68b059f8B3e29e1c5d962f01E7",
+    "research": "https://research.binance.com/en/projects/uniswap",
+    "type": "ERC20",
+    "symbol": "XUNI",
+    "decimals": 18,
+    "id": "0x8fe80F7CA77dAA68b059f8B3e29e1c5d962f01E7"
+}

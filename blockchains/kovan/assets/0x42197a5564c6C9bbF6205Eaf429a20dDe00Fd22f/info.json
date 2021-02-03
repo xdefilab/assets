@@ -1,0 +1,11 @@
+{
+    "name": "Compound",
+    "website": "https://compound.finance",
+    "short_description": "Compound is the governance token for the Compound protocol.",
+    "explorer": "https://kovan.etherscan.io/token/0x42197a5564c6C9bbF6205Eaf429a20dDe00Fd22f",
+    "research": "https://research.binance.com/en/projects/compound",
+    "type": "ERC20",
+    "symbol": "XCOMP",
+    "decimals": 18,
+    "id": "0x42197a5564c6C9bbF6205Eaf429a20dDe00Fd22f"
+}

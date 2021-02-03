@@ -1,0 +1,10 @@
+{
+    "name": "XMING",
+    "website": "https://minereum.com/",
+    "short_description": "XMING Official",
+    "explorer": "https://kovan.etherscan.io/token/0xb81b21aAAf7aeDF5501BA47e7Fc57cecbdC268C6",
+    "type": "ERC20",
+    "symbol": "XMING",
+    "decimals": 18,
+    "id": "0xb81b21aAAf7aeDF5501BA47e7Fc57cecbdC268C6"
+}
