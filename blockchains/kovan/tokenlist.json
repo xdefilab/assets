@@ -51,10 +51,21 @@
             "asset": "c60_t0xDE99C79533EEB1897d1d12dF3E5437D498ba82a6",
             "type": "ERC20",
             "address": "0xDE99C79533EEB1897d1d12dF3E5437D498ba82a6",
-            "name": "Dai Stablecoin",
+            "name": "X-Dai Stablecoin",
             "symbol": "XDAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xDE99C79533EEB1897d1d12dF3E5437D498ba82a6/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+            "type": "ERC20",
+            "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png",
             "pairs": []
         },
         {
@@ -130,7 +141,7 @@
             "address": "0x849070e3485E8D98afe9270002F304892F991b46",
             "name": "XHALF",
             "symbol": "XHALF",
-            "decimals": 18,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x849070e3485E8D98afe9270002F304892F991b46/logo.png",
             "pairs": []
         },
