@@ -146,6 +146,7 @@
             "pairs": []
         },
         {
+            "chainId": 42,
             "asset": "c60_t0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158",
             "type": "ERC20",
             "address": "0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158",
@@ -156,6 +157,18 @@
             "pairs": []
         },
         {
+            "chainId": 42,
+            "asset": "c60_t0x7e9e6020aAAA0eB32112c4b1F8485C089d6aD3e8",
+            "type": "ERC20",
+            "address": "0x7e9e6020aAAA0eB32112c4b1F8485C089d6aD3e8",
+            "name": "XDEX",
+            "symbol": "XDEX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x7e9e6020aAAA0eB32112c4b1F8485C089d6aD3e8/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
             "asset": "c60_t0x105550516486DB9ac99DBDAd7E24F39a9629067B",
             "type": "ERC20",
             "address": "0x105550516486DB9ac99DBDAd7E24F39a9629067B",
@@ -166,6 +179,7 @@
             "pairs": []
         },
         {
+            "chainId": 42,
             "asset": "c60_t0x2EbE0F9eF3A77267Ed52AB993F4A3A31bb3F935C",
             "type": "ERC20",
             "address": "0x2EbE0F9eF3A77267Ed52AB993F4A3A31bb3F935C",
@@ -173,6 +187,28 @@
             "symbol": "XDEX2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x2EbE0F9eF3A77267Ed52AB993F4A3A31bb3F935C/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+            "type": "ERC20",
+            "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+            "name": "Synth sUSD",
+            "symbol": "sUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x5C0c06c540F6182de0828aF99520d6A71f796370",
+            "type": "ERC20",
+            "address": "0x5C0c06c540F6182de0828aF99520d6A71f796370",
+            "name": "Graph Token",
+            "symbol": "GRT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5C0c06c540F6182de0828aF99520d6A71f796370/logo.png",
             "pairs": []
         }
     ],
