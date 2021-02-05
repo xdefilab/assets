@@ -1,0 +1,10 @@
+{
+    "name": "Tether",
+    "website": "https://tether.to",
+    "short_description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+    "explorer": "https://kovan.etherscan.io/token/0x07de306FF27a2B630B1141956844eB1552B956B5",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "id": "0x07de306FF27a2B630B1141956844eB1552B956B5"
+}
