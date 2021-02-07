@@ -1,0 +1,10 @@
+{
+    "name": "XDEX Token",
+    "website": "https://xdefi.com",
+    "short_description": "XDEX Token",
+    "explorer": "https://kovan.etherscan.io/token/0xAc77077f35709cbb80A8d5C036aa13b760e9bbd2",
+    "type": "ERC20",
+    "symbol": "XDEX",
+    "decimals": 6,
+    "id": "0xAc77077f35709cbb80A8d5C036aa13b760e9bbd2"
+}
