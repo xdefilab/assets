@@ -147,13 +147,13 @@
         },
         {
             "chainId": 42,
-            "asset": "c60_t0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158",
+            "asset": "c60_t0x8F8cb6B46c78842d0181CE1Dd9Ff0DD287ACBfbC",
             "type": "ERC20",
-            "address": "0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158",
+            "address": "0x8F8cb6B46c78842d0181CE1Dd9Ff0DD287ACBfbC",
             "name": "XDEX",
             "symbol": "XDEX",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0xaDBc525ace6ed9c5195071f29036e7ecCd1DC158/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kovan/assets/0x8F8cb6B46c78842d0181CE1Dd9Ff0DD287ACBfbC/logo.png",
             "pairs": []
         },
         {
