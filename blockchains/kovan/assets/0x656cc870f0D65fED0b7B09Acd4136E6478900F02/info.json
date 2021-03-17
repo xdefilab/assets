@@ -1,10 +1,10 @@
 {
     "name": "XDEX Token",
     "website": "https://xdefi.com",
-    "short_description": "XDEX Token",
-    "explorer": "https://kovan.etherscan.io/token/0x656cc870f0D65fED0b7B09Acd4136E6478900F02",
+    "short_description": "XDEFI Governance Token",
+    "explorer": "https://etherscan.io/token/0x000000000000d0151e748d25b766e77efe2a6c83",
     "type": "ERC20",
-    "symbol": "XDEXA",
-    "decimals": 6,
-    "id": "0x656cc870f0D65fED0b7B09Acd4136E6478900F02"
+    "symbol": "XDEX",
+    "decimals": 18,
+    "id": "0x000000000000d0151E748d25b766e77efe2A6c83"
 }

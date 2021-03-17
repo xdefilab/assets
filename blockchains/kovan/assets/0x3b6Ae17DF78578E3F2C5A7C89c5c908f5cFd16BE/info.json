@@ -1,0 +1,30 @@
+{
+    "name": "Tokenlon",
+    "website": "https://tokenlon.im/lon",
+    "source_code": "https://etherscan.io/address/0x3b6Ae17DF78578E3F2C5A7C89c5c908f5cFd16BE#code",
+    "white_paper": "https://tokenlon.im/files/Tokenlon-litepaper_en-us.pdf",
+    "short_description": "Utility token issued by the Tokenlon DEX to align ecosystem stakeholders.",
+    "description": "LON backs the Tokenlon decentralized exchange and payment settlement protocol based on Ethereum blockchain technology. It currently powers Tokenlon DEX, a decentralized exchange and payment settlement protocol which aims to provide a secure, reliable and seamless trading experience to the masses.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/tokenlon",
+            "handle": "tokenlon"
+        },
+        {
+            "name": "Medium",
+            "url": "https://medium.com/@tokenlon",
+            "handle": "tokenlon"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/nPmsMrG",
+            "handle": "Tokenlon"
+        }
+    ],
+    "explorer": "https://etherscan.io/token/0x3b6Ae17DF78578E3F2C5A7C89c5c908f5cFd16BE",
+    "type": "ERC20",
+    "symbol": "LON",
+    "decimals": 18,
+    "id": ""
+}

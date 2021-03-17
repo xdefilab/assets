@@ -1,0 +1,11 @@
+{
+    "name": "Sushi",
+    "website": "https://sushiswap.fi",
+    "short_description": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
+    "explorer": "https://kovan.etherscan.io/token/0x12D04f84d49FE289B2BD65404dB6504789BE34B1",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "id": "0x12D04f84d49FE289B2BD65404dB6504789BE34B1"
+}

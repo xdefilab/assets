@@ -1,0 +1,10 @@
+{
+    "name": "1INCH Token",
+    "website": "https://1inch.exchange/",
+    "short_description": "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange — DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.    ",
+    "explorer": "https://etherscan.io/address/0xf83b5Bf86b54E2471FCc45Aa8997DC73A8163a70",
+    "type": "ERC20",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "id": "0xf83b5Bf86b54E2471FCc45Aa8997DC73A8163a70"
+}
